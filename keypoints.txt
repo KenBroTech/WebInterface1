@@ -1,0 +1,40 @@
+CSS stands for Cascading Style Sheet
+It is used to style HTML documents.
+CSS just like HTML is not a programming language. 
+
+1. Ways of Adding CSS
+-- Inline Method
+-- Internam Method
+-- External Method
+
+2. CSS Selectors
+-- Select by HTML element
+-- Select by Class
+-- Select by ID
+-- Select by all elements
+-- Multiple Seclection
+
+3. Margins and Paddings
+Margins are the external distance from the border of an between HTML Element
+Margins are the internal distance to the border of an between HTML Element
+-- Box Model
+-- Inherent HTML Tags margins and paddings
+
+4. CSS Positions
+-- Sticky
+-- Fixed
+-- Absolute
+-- Relative
+
+5. CSS Flex Box
+
+6. Media Queries
+
+
+# Colors
+nav-background #eeeeee83
+
+logo-color #df2121
+active-color red
+
+hover #968d8d
